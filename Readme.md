@@ -1,3 +1,5 @@
+École polytechnique | INF554 - Machine Learning
+
 We have entered the Big Data Era. The explosion and profusion of available data in a wide range of application domains rise up new challenges and opportunities in a plethora of disciplines – ranging from science and engineering to business and society in general. A major challenge is how to take advantage of the unprecedented scale of data, in order to acquire further insights and knowledge for improving the quality of the offered services, and this is where Machine Learning comes in capitalizing on techniques and methodologies from data exploration (statistical profiling, visualization) aiming at identifying patterns, correlations, groupings, modeling and doing predictions. In the last years Deep learning is becoming a very important element for solving large scale prediction problems. 
 
 The Introduction to Machine Learning class will cover the following aspects:
